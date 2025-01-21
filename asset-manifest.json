@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sumank07/Portfolio-suman.git/static/css/main.7af9623c.css",
+    "main.js": "/sumank07/Portfolio-suman.git/static/js/main.ee65eee9.js",
+    "static/media/aboutme-image.png.jpg": "/sumank07/Portfolio-suman.git/static/media/aboutme-image.png.95ba5f3ad295ac89389a.jpg",
+    "static/media/suman-image.png.jpg": "/sumank07/Portfolio-suman.git/static/media/suman-image.png.0df5506f2aae7a3d5ebe.jpg",
+    "static/media/logo-image.png": "/sumank07/Portfolio-suman.git/static/media/logo-image.1453c860b41900d4f12b.png",
+    "index.html": "/sumank07/Portfolio-suman.git/index.html",
+    "main.7af9623c.css.map": "/sumank07/Portfolio-suman.git/static/css/main.7af9623c.css.map",
+    "main.ee65eee9.js.map": "/sumank07/Portfolio-suman.git/static/js/main.ee65eee9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7af9623c.css",
+    "static/js/main.ee65eee9.js"
+  ]
+}
