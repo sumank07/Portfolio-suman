@@ -1,6 +1,6 @@
 {
   "name": "portfolio-suman",
-  "homepage": "/",
+  "homepage": "https://github.com/sumank07/portfolio-suman.git",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
@@ -50,7 +50,7 @@
     "eslint-plugin-jsx-a11y": "^6.10.2",
     "eslint-plugin-react": "^7.37.2",
     "eslint-plugin-react-hooks": "^5.1.0",
-    "gh-pages": "^6.2.0",
+    "gh-pages": "^6.3.0",
     "object.fromentries": "^2.0.8"
   }
 }
