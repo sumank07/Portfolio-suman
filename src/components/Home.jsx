@@ -15,7 +15,7 @@ const Home = () => {
         transition-transform duration-300 hover:scale-105"
         />
        <h1 className="text-2xl">
-          I am Suman Katuwal From sankhuwasava.
+          I am Suman Katuwal From sankhuwasava. herohonda chalauxu moo
         </h1>
       </div>
     </section>
