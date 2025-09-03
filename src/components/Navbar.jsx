@@ -54,6 +54,14 @@ const Navbar = ({ logo, toggleBtn, isDarkMode }) => {
           </li>
           <li className="py-2 sm:py-0">
             <a
+              href="#projects"
+              className="block text-black-800 hover:text-gray-600 px-4"
+            >
+             My Projects
+            </a>
+          </li>
+          <li className="py-2 sm:py-0">
+            <a
               href="#contact"
               className="block text-black-800 hover:text-gray-600 px-4"
             >
@@ -66,7 +74,7 @@ const Navbar = ({ logo, toggleBtn, isDarkMode }) => {
             type="button"
             aria-label={`Switch to ${isDarkMode ? "light" : "dark"} mode`}
           >
-            {isDarkMode ? <FiSun /> : <FiMoon />}
+            {isDarkMode ? <FiMoon /> : <FiSun />}
           </button>
         </ul>
       </div>
