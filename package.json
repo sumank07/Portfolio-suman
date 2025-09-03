@@ -2,7 +2,8 @@
   "name": "portfolio-suman",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://sumank07.github.io/Portfolio-suman.git",
+  "homepage": "https://sumank07.github.io/Portfolio-suman",
+
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@testing-library/jest-dom": "^5.17.0",
