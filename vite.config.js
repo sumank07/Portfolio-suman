@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: "/portfolio-suman/", // Make sure this matches your repository name
+  base: "/portfolio-suman/", // Ensure this matches your repo name
 });

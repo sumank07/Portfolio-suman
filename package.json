@@ -1,6 +1,6 @@
 {
   "name": "portfolio-suman",
-  "homepage": "https://github.com/sumank07/portfolio-suman.git",
+  "homepage":"https://sumank07.github.io/portfolio-suman",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
